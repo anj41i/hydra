@@ -26,7 +26,7 @@ void setup() {
   }
   FastLED.show();
 
-  //dealy 10 sec at start
+  //delay 10 sec at start
   delay(10000);
 }
 
